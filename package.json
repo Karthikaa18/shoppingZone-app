@@ -1,0 +1,19 @@
+{
+  "name": "shopping_zone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karthikaa18/shoppingZone-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Karthikaa18/shoppingZone-app/issues"
+  },
+  "homepage": "https://github.com/Karthikaa18/shoppingZone-app#readme"
+}
